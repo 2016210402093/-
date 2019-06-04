@@ -1,7 +1,7 @@
 let entries = {
 	"code":"0",
-	"data":"",
-	"msg":""
+	"data": "",
+	"msg": ""
 };
 
 module.exports = entries;
